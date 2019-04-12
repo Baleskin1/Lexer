@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/Lexer/lexer.cpp
+lexer.h
+D:/CLionProjects/Lexer/lexer.h
+
+D:/CLionProjects/Lexer/lexer.h
+map
+-
+iostream
+-
+memory
+-
+math.h
+-
+token.h
+D:/CLionProjects/Lexer/token.h
+
+D:/CLionProjects/Lexer/main.cpp
+sstream
+-
+lexer.h
+D:/CLionProjects/Lexer/lexer.h
+
+D:/CLionProjects/Lexer/token.h
+iostream
+-
+memory
+-
+
